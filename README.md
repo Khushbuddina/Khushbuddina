@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Khushbuddin%20Ansari&fontSize=40&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&fontSize=40&fontColor=fff"/>
   
 # Hi, I'm Khushbuddin Ansari
 
